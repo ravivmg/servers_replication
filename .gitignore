@@ -1,0 +1,14 @@
+input/ia
+input/extract_from_api
+input/orbis_location.txt.gz
+input/orbis_naics.txt.gz
+input/compustat_static.txt.gz
+*.gz
+*.pyc
+.DS_Store
+*.log
+input/domain_ids.txt.gz
+*.dta
+*.json
+__pycache__
+*.h5

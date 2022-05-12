@@ -1,0 +1,409 @@
+state_name	susb_state_firms	yr	state
+Alabama	6979	2001	AL
+Alaska	1286	2001	AK
+Arizona	8574	2001	AZ
+Arkansas	4240	2001	AR
+California	42338	2001	CA
+Colorado	9003	2001	CO
+Connecticut	6619	2001	CT
+Delaware	2651	2001	DE
+District of Columbia	2819	2001	DC
+Florida	19378	2001	FL
+Georgia	13886	2001	GA
+Hawaii	2443	2001	HI
+Idaho	2509	2001	ID
+Illinois	20652	2001	IL
+Indiana	10553	2001	IN
+Iowa	5645	2001	IA
+Kansas	5761	2001	KS
+Kentucky	6931	2001	KY
+Louisiana	7069	2001	LA
+Maine	2489	2001	ME
+Maryland	9268	2001	MD
+Massachusetts	11981	2001	MA
+Michigan	14122	2001	MI
+Minnesota	9761	2001	MN
+Mississippi	4216	2001	MS
+Missouri	10183	2001	MO
+Montana	1674	2001	MT
+Nebraska	3743	2001	NE
+Nevada	4643	2001	NV
+New Hampshire	2897	2001	NH
+New Jersey	13479	2001	NJ
+New Mexico	3411	2001	NM
+New York	23456	2001	NY
+North Carolina	12404	2001	NC
+North Dakota	1594	2001	ND
+Ohio	17941	2001	OH
+Oklahoma	5766	2001	OK
+Oregon	6499	2001	OR
+Pennsylvania	18497	2001	PA
+Rhode Island	2319	2001	RI
+South Carolina	6666	2001	SC
+South Dakota	1764	2001	SD
+Tennessee	9737	2001	TN
+Texas	26812	2001	TX
+Utah	4464	2001	UT
+Vermont	1479	2001	VT
+Virginia	11619	2001	VA
+Washington	9813	2001	WA
+West Virginia	2974	2001	WV
+Wisconsin	9783	2001	WI
+Wyoming	1273	2001	WY
+Alabama	7122	2011	AL
+Alaska	1490	2011	AK
+Arizona	9070	2011	AZ
+Arkansas	4735	2011	AR
+California	37926	2011	CA
+Colorado	9134	2011	CO
+Connecticut	6420	2011	CT
+Delaware	2868	2011	DE
+District of Columbia	3216	2011	DC
+Florida	19249	2011	FL
+Georgia	13628	2011	GA
+Hawaii	2639	2011	HI
+Idaho	2911	2011	ID
+Illinois	19183	2011	IL
+Indiana	10315	2011	IN
+Iowa	5872	2011	IA
+Kansas	5952	2011	KS
+Kentucky	6861	2011	KY
+Louisiana	7487	2011	LA
+Maine	2639	2011	ME
+Maryland	9442	2011	MD
+Massachusetts	11142	2011	MA
+Michigan	12783	2011	MI
+Minnesota	9850	2011	MN
+Mississippi	4410	2011	MS
+Missouri	10010	2011	MO
+Montana	1999	2011	MT
+Nebraska	4010	2011	NE
+Nevada	5319	2011	NV
+New Hampshire	3035	2011	NH
+New Jersey	12785	2011	NJ
+New Mexico	3675	2011	NM
+New York	22943	2011	NY
+North Carolina	12683	2011	NC
+North Dakota	1945	2011	ND
+Ohio	16461	2011	OH
+Oklahoma	6279	2011	OK
+Oregon	6677	2011	OR
+Pennsylvania	18159	2011	PA
+Rhode Island	2387	2011	RI
+South Carolina	6909	2011	SC
+South Dakota	2039	2011	SD
+Tennessee	9761	2011	TN
+Texas	29006	2011	TX
+Utah	5040	2011	UT
+Vermont	1575	2011	VT
+Virginia	11952	2011	VA
+Washington	9925	2011	WA
+West Virginia	3079	2011	WV
+Wisconsin	9688	2011	WI
+Wyoming	1586	2011	WY
+Alabama	7266	2012	AL
+Alaska	1547	2012	AK
+Arizona	9292	2012	AZ
+Arkansas	4775	2012	AR
+California	39214	2012	CA
+Colorado	9507	2012	CO
+Connecticut	6513	2012	CT
+Delaware	2901	2012	DE
+District of Columbia	3300	2012	DC
+Florida	20298	2012	FL
+Georgia	13956	2012	GA
+Hawaii	2637	2012	HI
+Idaho	2994	2012	ID
+Illinois	19587	2012	IL
+Indiana	10515	2012	IN
+Iowa	5933	2012	IA
+Kansas	6100	2012	KS
+Kentucky	6942	2012	KY
+Louisiana	7694	2012	LA
+Maine	2658	2012	ME
+Maryland	9697	2012	MD
+Massachusetts	11400	2012	MA
+Michigan	12967	2012	MI
+Minnesota	10155	2012	MN
+Mississippi	4448	2012	MS
+Missouri	10098	2012	MO
+Montana	2066	2012	MT
+Nebraska	4075	2012	NE
+Nevada	5399	2012	NV
+New Hampshire	3082	2012	NH
+New Jersey	12962	2012	NJ
+New Mexico	3708	2012	NM
+New York	23642	2012	NY
+North Carolina	12979	2012	NC
+North Dakota	2127	2012	ND
+Ohio	16909	2012	OH
+Oklahoma	6511	2012	OK
+Oregon	6815	2012	OR
+Pennsylvania	18530	2012	PA
+Rhode Island	2378	2012	RI
+South Carolina	7017	2012	SC
+South Dakota	2091	2012	SD
+Tennessee	9968	2012	TN
+Texas	30331	2012	TX
+Utah	5220	2012	UT
+Vermont	1579	2012	VT
+Virginia	12275	2012	VA
+Washington	10076	2012	WA
+West Virginia	3163	2012	WV
+Wisconsin	9861	2012	WI
+Wyoming	1627	2012	WY
+Alabama	7301	2013	AL
+Alaska	1580	2013	AK
+Arizona	9449	2013	AZ
+Arkansas	4780	2013	AR
+California	40107	2013	CA
+Colorado	9655	2013	CO
+Connecticut	6505	2013	CT
+Delaware	2875	2013	DE
+District of Columbia	3289	2013	DC
+Florida	20477	2013	FL
+Georgia	14015	2013	GA
+Hawaii	2676	2013	HI
+Idaho	3043	2013	ID
+Illinois	19634	2013	IL
+Indiana	10578	2013	IN
+Iowa	5974	2013	IA
+Kansas	6105	2013	KS
+Kentucky	7019	2013	KY
+Louisiana	7711	2013	LA
+Maine	2679	2013	ME
+Maryland	9717	2013	MD
+Massachusetts	11539	2013	MA
+Michigan	13132	2013	MI
+Minnesota	10305	2013	MN
+Mississippi	4473	2013	MS
+Missouri	10166	2013	MO
+Montana	2084	2013	MT
+Nebraska	4117	2013	NE
+Nevada	5488	2013	NV
+New Hampshire	3113	2013	NH
+New Jersey	13060	2013	NJ
+New Mexico	3717	2013	NM
+New York	23941	2013	NY
+North Carolina	13126	2013	NC
+North Dakota	2170	2013	ND
+Ohio	16857	2013	OH
+Oklahoma	6646	2013	OK
+Oregon	6880	2013	OR
+Pennsylvania	18513	2013	PA
+Rhode Island	2406	2013	RI
+South Carolina	7119	2013	SC
+South Dakota	2126	2013	SD
+Tennessee	10095	2013	TN
+Texas	30895	2013	TX
+Utah	5282	2013	UT
+Vermont	1600	2013	VT
+Virginia	12396	2013	VA
+Washington	10300	2013	WA
+West Virginia	3155	2013	WV
+Wisconsin	9904	2013	WI
+Wyoming	1637	2013	WY
+Alabama	7341	2014	AL
+Alaska	1620	2014	AK
+Arizona	9654	2014	AZ
+Arkansas	4853	2014	AR
+California	40840	2014	CA
+Colorado	9912	2014	CO
+Connecticut	6556	2014	CT
+Delaware	2862	2014	DE
+District of Columbia	3352	2014	DC
+Florida	21015	2014	FL
+Georgia	14228	2014	GA
+Hawaii	2715	2014	HI
+Idaho	3109	2014	ID
+Illinois	19779	2014	IL
+Indiana	10699	2014	IN
+Iowa	5974	2014	IA
+Kansas	6195	2014	KS
+Kentucky	7030	2014	KY
+Louisiana	7870	2014	LA
+Maine	2709	2014	ME
+Maryland	9732	2014	MD
+Massachusetts	11716	2014	MA
+Michigan	13290	2014	MI
+Minnesota	10410	2014	MN
+Mississippi	4507	2014	MS
+Missouri	10288	2014	MO
+Montana	2119	2014	MT
+Nebraska	4222	2014	NE
+Nevada	5634	2014	NV
+New Hampshire	3155	2014	NH
+New Jersey	13101	2014	NJ
+New Mexico	3721	2014	NM
+New York	24325	2014	NY
+North Carolina	13346	2014	NC
+North Dakota	2299	2014	ND
+Ohio	17015	2014	OH
+Oklahoma	6750	2014	OK
+Oregon	7052	2014	OR
+Pennsylvania	18720	2014	PA
+Rhode Island	2433	2014	RI
+South Carolina	7222	2014	SC
+South Dakota	2188	2014	SD
+Tennessee	10197	2014	TN
+Texas	31713	2014	TX
+Utah	5441	2014	UT
+Vermont	1617	2014	VT
+Virginia	12542	2014	VA
+Washington	10539	2014	WA
+West Virginia	3193	2014	WV
+Wisconsin	10048	2014	WI
+Wyoming	1706	2014	WY
+Alabama	7410	2015	AL
+Alaska	1629	2015	AK
+Arizona	9859	2015	AZ
+Arkansas	4943	2015	AR
+California	41731	2015	CA
+Colorado	10141	2015	CO
+Connecticut	6639	2015	CT
+Delaware	2866	2015	DE
+District of Columbia	3423	2015	DC
+Florida	21593	2015	FL
+Georgia	14631	2015	GA
+Hawaii	2735	2015	HI
+Idaho	3183	2015	ID
+Illinois	20017	2015	IL
+Indiana	10832	2015	IN
+Iowa	6090	2015	IA
+Kansas	6323	2015	KS
+Kentucky	7100	2015	KY
+Louisiana	8005	2015	LA
+Maine	2763	2015	ME
+Maryland	9844	2015	MD
+Massachusetts	11895	2015	MA
+Michigan	13517	2015	MI
+Minnesota	10578	2015	MN
+Mississippi	4584	2015	MS
+Missouri	10449	2015	MO
+Montana	2180	2015	MT
+Nebraska	4292	2015	NE
+Nevada	5758	2015	NV
+New Hampshire	3242	2015	NH
+New Jersey	13149	2015	NJ
+New Mexico	3760	2015	NM
+New York	24563	2015	NY
+North Carolina	13528	2015	NC
+North Dakota	2356	2015	ND
+Ohio	17302	2015	OH
+Oklahoma	6824	2015	OK
+Oregon	7164	2015	OR
+Pennsylvania	18913	2015	PA
+Rhode Island	2457	2015	RI
+South Carolina	7456	2015	SC
+South Dakota	2211	2015	SD
+Tennessee	10355	2015	TN
+Texas	32461	2015	TX
+Utah	5636	2015	UT
+Vermont	1642	2015	VT
+Virginia	12660	2015	VA
+Washington	10806	2015	WA
+West Virginia	3174	2015	WV
+Wisconsin	10249	2015	WI
+Wyoming	1724	2015	WY
+Alabama	7528	2016	AL
+Alaska	1640	2016	AK
+Arizona	10016	2016	AZ
+Arkansas	4992	2016	AR
+California	42214	2016	CA
+Colorado	10319	2016	CO
+Connecticut	6742	2016	CT
+Delaware	2894	2016	DE
+District of Columbia	3495	2016	DC
+Florida	22133	2016	FL
+Georgia	14794	2016	GA
+Hawaii	2809	2016	HI
+Idaho	3285	2016	ID
+Illinois	20175	2016	IL
+Indiana	10971	2016	IN
+Iowa	6145	2016	IA
+Kansas	6289	2016	KS
+Kentucky	7201	2016	KY
+Louisiana	7900	2016	LA
+Maine	2802	2016	ME
+Maryland	9994	2016	MD
+Massachusetts	12137	2016	MA
+Michigan	13713	2016	MI
+Minnesota	10678	2016	MN
+Mississippi	4639	2016	MS
+Missouri	10556	2016	MO
+Montana	2220	2016	MT
+Nebraska	4339	2016	NE
+Nevada	5862	2016	NV
+New Hampshire	3302	2016	NH
+New Jersey	13418	2016	NJ
+New Mexico	3768	2016	NM
+New York	24933	2016	NY
+North Carolina	13819	2016	NC
+North Dakota	2276	2016	ND
+Ohio	17460	2016	OH
+Oklahoma	6784	2016	OK
+Oregon	7352	2016	OR
+Pennsylvania	18955	2016	PA
+Rhode Island	2532	2016	RI
+South Carolina	7648	2016	SC
+South Dakota	2229	2016	SD
+Tennessee	10579	2016	TN
+Texas	32536	2016	TX
+Utah	5738	2016	UT
+Vermont	1675	2016	VT
+Virginia	12820	2016	VA
+Washington	10987	2016	WA
+West Virginia	3163	2016	WV
+Wisconsin	10361	2016	WI
+Wyoming	1678	2016	WY
+Alabama	7724	2017	AL
+Alaska	1520	2017	AK
+Arizona	10284	2017	AZ
+Arkansas	4998	2017	AR
+California	43102	2017	CA
+Colorado	10566	2017	CO
+Connecticut	6729	2017	CT
+Delaware	2880	2017	DE
+District of Columbia	3491	2017	DC
+Florida	22896	2017	FL
+Georgia	15119	2017	GA
+Hawaii	2804	2017	HI
+Idaho	3394	2017	ID
+Illinois	20353	2017	IL
+Indiana	11232	2017	IN
+Iowa	6153	2017	IA
+Kansas	6347	2017	KS
+Kentucky	7345	2017	KY
+Louisiana	7927	2017	LA
+Maine	2774	2017	ME
+Maryland	10255	2017	MD
+Massachusetts	12399	2017	MA
+Michigan	14046	2017	MI
+Minnesota	10787	2017	MN
+Mississippi	4604	2017	MS
+Missouri	10637	2017	MO
+Montana	2186	2017	MT
+Nebraska	4331	2017	NE
+Nevada	6080	2017	NV
+New Hampshire	3343	2017	NH
+New Jersey	13694	2017	NJ
+New Mexico	3867	2017	NM
+New York	25285	2017	NY
+North Carolina	14186	2017	NC
+North Dakota	2226	2017	ND
+Ohio	17684	2017	OH
+Oklahoma	6819	2017	OK
+Oregon	7544	2017	OR
+Pennsylvania	19348	2017	PA
+Rhode Island	2485	2017	RI
+South Carolina	7856	2017	SC
+South Dakota	2208	2017	SD
+Tennessee	10836	2017	TN
+Texas	33324	2017	TX
+Utah	5903	2017	UT
+Vermont	1578	2017	VT
+Virginia	13082	2017	VA
+Washington	11235	2017	WA
+West Virginia	3169	2017	WV
+Wisconsin	10494	2017	WI
+Wyoming	1598	2017	WY
